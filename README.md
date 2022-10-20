@@ -1,19 +1,23 @@
 # FlexBlog
 
-#### Landing Page elaborada durante o curso de **CSS Flexbox** da **[Origamid](https://www.origamid.com/)**.
+#### Projeto desenvolvido durante o curso de CSS Flexbox da [Origamid](https://www.origamid.com/).
 
 ---
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
 
 ---
 
-## Visualizar
+## 💡 Visualizar
 
-#### Clique em [FlexBlog](https://pedrvv-flexblog.netlify.app/) para visualizar o projeto completo.
+#### Clique em [FlexBlog](https://pedrvv-flexblog.netlify.app/) para conferir.
 <div align="center">
-  <a href="https://imgur.com/xPDsrKC"><img src="https://i.imgur.com/xPDsrKC.png" title="source: imgur.com" /></a>
+  <img src="https://i.imgur.com/xPDsrKC.png" title="source: imgur.com" />
 </div>
+
+---
+
+### 👨‍💻 Desenvolvido por [Pedro Bento](https://github.com/pedrvv/).
